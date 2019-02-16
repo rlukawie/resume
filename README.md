@@ -1,14 +1,16 @@
-"# resume" 
-#Convert woed document to .md file
-#Reference: https://gist.github.com/vzvenyach/7278543
+"# resume"
 
-#unoconv utility
-#http://dag.wiee.rs/home-made/unoconv/
-#https://www.maketecheasier.com/automate-document-conversion-with-unoconv/
-#https://www.howtoinstall.co/en/ubuntu/xenial/unoconv
+Convert woed document to .md file
 
-#pandoc utility
-http://www.pandoc.org/installing.html
+Reference: https://gist.github.com/vzvenyach/7278543
+
+unoconv utility
+ http://dag.wiee.rs/home-made/unoconv/
+ https://www.maketecheasier.com/automate-document-conversion-with-unoconv/
+ https://www.howtoinstall.co/en/ubuntu/xenial/unoconv
+
+pandoc utility
+ http://www.pandoc.org/installing.html
 
 Example: 
 Bash (Ubuntu)
