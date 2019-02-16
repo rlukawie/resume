@@ -1,23 +1,5 @@
 [ ]{#Frame1 dir="ltr"
-style="float: left; width: 2.09in; height: 0.02in; border: none; padding: 0in; background: #ffffff"}
-
-Phone (224) 616-2006
-
-E-mail: Robert.Lukawiecki\@gmail.com
-
-\
-
-\
-[ ]{#Frame2 dir="ltr"
-style="float: left; width: 1.41in; height: 0.02in; border: none; padding: 0in; background: #ffffff"}
-
-1759 Henley St.
-
-Glenview, IL
-
-60025
-
-\
+style="float: left; width: 2.09in; height: 0.02in; border: none; padding: 0in; background: #ffffff"}\
 Robert Lukawiecki
 
 +-----------------------------------+-----------------------------------+
